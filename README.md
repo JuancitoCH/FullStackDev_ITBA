@@ -16,3 +16,29 @@ Holanda aqui haciendo unas pruebas con mi primer archivo markdown.
 Aqui cambiando **cosas** ahora esta en negritas **Negritas en el File**
 
 Algos *sasdsd* Italic
+
+
+> BLOCKQUOTE
+> 
+> *Genial Manin*
+
+
+
+> ## BLOCKQUOTE
+> - Nested
+>> *Genial Manin*
+
+
+>1. Esto es una lista **Ordenada**
+>2. Esto es una lista
+>3. Esto es una lista
+>4. Esto es una lista
+
+- UnorderList
+- UnorderList
+- UnorderList
+- UnorderList
+- UnorderList
+
+
+
